@@ -1,0 +1,32 @@
+D:\DotNet\Employee Api\Employee Api\bin\Debug\net8.0\appsettings.Development.json
+D:\DotNet\Employee Api\Employee Api\bin\Debug\net8.0\appsettings.json
+D:\DotNet\Employee Api\Employee Api\bin\Debug\net8.0\Employee Api.exe
+D:\DotNet\Employee Api\Employee Api\bin\Debug\net8.0\Employee Api.deps.json
+D:\DotNet\Employee Api\Employee Api\bin\Debug\net8.0\Employee Api.runtimeconfig.json
+D:\DotNet\Employee Api\Employee Api\bin\Debug\net8.0\Employee Api.dll
+D:\DotNet\Employee Api\Employee Api\bin\Debug\net8.0\Employee Api.pdb
+D:\DotNet\Employee Api\Employee Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\DotNet\Employee Api\Employee Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DotNet\Employee Api\Employee Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DotNet\Employee Api\Employee Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DotNet\Employee Api\Employee Api\obj\Debug\net8.0\Employee Api.csproj.AssemblyReference.cache
+D:\DotNet\Employee Api\Employee Api\obj\Debug\net8.0\Employee Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Employee Api\Employee Api\obj\Debug\net8.0\Employee Api.AssemblyInfoInputs.cache
+D:\DotNet\Employee Api\Employee Api\obj\Debug\net8.0\Employee Api.AssemblyInfo.cs
+D:\DotNet\Employee Api\Employee Api\obj\Debug\net8.0\Employee Api.csproj.CoreCompileInputs.cache
+D:\DotNet\Employee Api\Employee Api\obj\Debug\net8.0\Employee Api.MvcApplicationPartsAssemblyInfo.cs
+D:\DotNet\Employee Api\Employee Api\obj\Debug\net8.0\Employee Api.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNet\Employee Api\Employee Api\obj\Debug\net8.0\staticwebassets.build.json
+D:\DotNet\Employee Api\Employee Api\obj\Debug\net8.0\staticwebassets.development.json
+D:\DotNet\Employee Api\Employee Api\obj\Debug\net8.0\staticwebassets\msbuild.Employee Api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DotNet\Employee Api\Employee Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Employee Api.props
+D:\DotNet\Employee Api\Employee Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Employee Api.props
+D:\DotNet\Employee Api\Employee Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Employee Api.props
+D:\DotNet\Employee Api\Employee Api\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DotNet\Employee Api\Employee Api\obj\Debug\net8.0\scopedcss\bundle\Employee Api.styles.css
+D:\DotNet\Employee Api\Employee Api\obj\Debug\net8.0\Employee Api.csproj.CopyComplete
+D:\DotNet\Employee Api\Employee Api\obj\Debug\net8.0\Employee Api.dll
+D:\DotNet\Employee Api\Employee Api\obj\Debug\net8.0\refint\Employee Api.dll
+D:\DotNet\Employee Api\Employee Api\obj\Debug\net8.0\Employee Api.pdb
+D:\DotNet\Employee Api\Employee Api\obj\Debug\net8.0\Employee Api.genruntimeconfig.cache
+D:\DotNet\Employee Api\Employee Api\obj\Debug\net8.0\ref\Employee Api.dll
